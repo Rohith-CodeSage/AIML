@@ -41,3 +41,5 @@
 <a href="https://github.com/Rohith-CodeSage/AIML/blob/main/AIML_LAB_9.ipynb">LAB 09</a>
 
 <a href="https://github.com/Rohith-CodeSage/AIML/blob/main/AIML_LAB_10_.ipynb">LAB 10</a>
+
+<a href= "https://github.com/Rohith-CodeSage/AIML/blob/main/AIML_WEK_11.ipynb">LAB 11 </a>
